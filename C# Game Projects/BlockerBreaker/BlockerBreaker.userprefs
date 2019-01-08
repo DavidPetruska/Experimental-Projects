@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\LazerDefender\Assets\Scripts\LevelManager.cs">
+    <Files>
+      <File FileName="..\LazerDefender\Assets\Scripts\MusicPlayer.cs" Line="1" Column="1" />
+      <File FileName="..\LazerDefender\Assets\Scripts\LevelManager.cs" Line="17" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
